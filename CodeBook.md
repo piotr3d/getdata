@@ -1,7 +1,5 @@
 # Description of the analysis and generated output 
 
-Code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
-
 This document provides information on the data collecation, transformation and explains the generated output. It is assumed that user have already access to Samsung data (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) in their working directory. 
 
 To use provided script *run_analysis.R* first you should verify if the path to data in you working is correct. This can be modified in the configuration section of the script:
