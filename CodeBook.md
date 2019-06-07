@@ -12,17 +12,18 @@ where *uci_har_dataset_location* is the location of the main directory od the da
 
 ### description of newly created variables:
 For the clean data set (*clean_data.txt*):
-<li>**subject** - is the idenfier of the subject - one of the 30 participants of the experiment</li>
-<li>**activity_name** - is the name of the activity that the subject was doing during measurement</li>
-<li>**mean** - is the mean value of the measurement points captured during experiment</li>
-<li>**sd** - is the standard deviation value of the measurement points captured during experiment</li>
-<li>**measurement_id** - is the unique measurement identifier created to make further analysis easier</li>
+* **subject** - is the idenfier of the subject - one of the 30 participants of the experiment.
+* **activity_name** - is the name of the activity that the subject was doing during measurement.
+* **mean** - is the mean value of the measurement points captured during experiment.
+* **sd** - is the standard deviation value of the measurement points captured during experiment.
+* **measurement_id** - is the unique measurement identifier created to make further analysis easier.
 <br/>
+
 For the summarized data set (*summary_data.txt*):
-<li>**subject** - is the idenfier of the subject - one of the 30 participants of the experiment</li>
-<li>**activity_name** - is the name of the activity that the subject was doing during measurement</li>
-<li>**avg_mean** - is the average value of the mean value of the measurement points captured during experiment</li>
-<li>**avg_sd** - is the average value of the standard deviation value of the measurement points captured during experiment</li>
+* **subject** - is the idenfier of the subject - one of the 30 participants of the experiment.
+* **activity_name** - is the name of the activity that the subject was doing during measurement.
+* **avg_mean** - is the average value of the mean value of the measurement points captured during experiment.
+* **avg_sd** - is the average value of the standard deviation value of the measurement points captured during experiment.
 <br/>
 
 ### Analysis steps:
