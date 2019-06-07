@@ -10,7 +10,7 @@ To use provided script *run_analysis.R* first you should verify if the path to d
 
 where *uci_har_dataset_location* is the location of the main directory od the data set that contains *test* and *train* subdirectories.
 
-### description of newly created variables:
+### Description of newly created variables:
 For the clean data set (*clean_data.txt*):
 * **subject** - is the idenfier of the subject - one of the 30 participants of the experiment.
 * **activity_name** - is the name of the activity that the subject was doing during measurement.
